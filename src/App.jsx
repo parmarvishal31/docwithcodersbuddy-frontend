@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <div>welcome docswithcoderbuddy</div>
+    <div className='text-green-700'>welcome docswithcoderbuddy</div>
   )
 }
 
